@@ -17,7 +17,7 @@ title: Cristian Delgado
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Art+Science+Tecnologist Enthusiast
-baseurl: "cjdg" # the subpath of your site, e.g. /blog
+baseurl: "cjdg.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cjdgevo
 github_username:  cjdg

@@ -1,4 +1,5 @@
 ---
 layout: home
-title: Posts
+title: blog
+permalink: /blog/
 ---

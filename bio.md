@@ -3,4 +3,5 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
-Bio
+
+Bio page

@@ -5,4 +5,3 @@
 layout: page
 ---
 
-[CV](cv.md)
